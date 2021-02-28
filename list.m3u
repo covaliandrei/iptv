@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-id="jurnal-tv" tvg-name="Jurnal TV" tvg-language="Romanian" tvg-country="MD"
+#EXTINF:0,Jurnal TV
 https://live.cdn.jurnaltv.md/JurnalTV_HD/index.m3u8?token=96f789c4b0c2393e2f87c3a9cd163795119b67cd
 #EXTINF:-1 tvg-id="accent-tv" tvg-name="Accent TV" tvg-language="Romanian" tvg-logo="https://i.imgur.com/K9rVkyb.jpg" tvg-country="MD" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="",Accent TV
 http://video.a-tv.md/hls/accent.m3u8
