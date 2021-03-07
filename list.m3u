@@ -1,42 +1,63 @@
 #EXTINF:-1 tvg-id="JurnalTV" tvg-name="JurnalTV" tvg-language="Romanian" tvg-logo="" tvg-country="MD" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="",JurnalTV
+#EXTGRP:Moldova
 https://live2.cdn.jurnaltv.md/JurnalTV_HD/tracks-v1a1/mono.m3u8?token=96f789c4b0c2393e2f87c3a9cd163795119b67cd
 #EXTINF:-1 tvg-id="Prime" tvg-name="Prime" tvg-language="Romanian" tvg-logo="" tvg-country="MD" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="",Prime
+#EXTGRP:Moldova
 https://livebeta.publika.md/LIVE/1/600.m3u8
 #EXTINF:-1 tvg-id="accent-tv" tvg-name="Accent TV" tvg-language="Romanian" tvg-logo="https://i.imgur.com/K9rVkyb.jpg" tvg-country="MD" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="",Accent TV
+#EXTGRP:Moldova
 http://video.a-tv.md/hls/accent.m3u8
+#EXTGRP:Moldova
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/Z27Eyqv.jpg" tvg-country="MD" tvg-url="" group-title="",Elita TV
+#EXTGRP:Moldova
 http://46.55.111.242:8080/Rezina.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Moldova1" tvg-language="Romanian" tvg-logo="" tvg-country="MD" tvg-url="" group-title="",Moldova1
+#EXTGRP:Moldova
 rtsp://212.0.209.209:1935/live/_definst_/mp4:MoldovaUnu1
 #EXTINF:-1 tvg-id="noroc-tv-md" tvg-name="Noroc TV Moldova" tvg-language="Romanian" tvg-logo="https://i.imgur.com/39qL2Ht.png" tvg-country="MD" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="",Noroc TV
+#EXTGRP:Moldova
 http://live.noroc.tv/hls/noroctv_chisinau.m3u8
 #EXTINF:-1 tvg-id="publika-tv" tvg-name="Publika TV" tvg-language="Romanian" tvg-logo="https://i.imgur.com/Hquii9k.jpg" tvg-country="MD" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="",Publika TV
+#EXTGRP:Moldova
 http://livebeta.publika.md/LIVE/P/1000.m3u8
 #EXTINF:-1 tvg-id="publika-tv" tvg-name="Publika TV" tvg-language="Romanian" tvg-logo="https://i.imgur.com/Hquii9k.jpg" tvg-country="MD" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="",Publika TV
+#EXTGRP:Moldova
 http://livebeta.publika.md/LIVE/P/1500.m3u8
 #EXTINF:-1 tvg-id="publika-tv" tvg-name="Publika TV" tvg-language="Romanian" tvg-logo="https://i.imgur.com/Hquii9k.jpg" tvg-country="MD" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="",Publika TV
+#EXTGRP:Moldova
 http://livebeta.publika.md/LIVE/P/6810.m3u8
 #EXTINF:-1 tvg-id="ntv-moldova" tvg-name="NTV Moldova" tvg-language="Romanian" tvg-logo="https://i.imgur.com/omgMIKt.png" tvg-country="MD" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="",NTV Moldova
+#EXTGRP:Moldova
 http://93.115.137.166/hls/ntvm.m3u8
 #EXTINF:-1 tvg-id="canal2" tvg-name="Canal2 LIVE HD" tvg-language="Romanian" tvg-logo="" tvg-country="MD" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="",Canal2 LIVE HD
+#EXTGRP:Moldova
 http://livebeta.publika.md/LIVE/2/1500.m3u8
 #EXTINF:0,Canal 2
+#EXTGRP:Moldova
 http://91.230.214.75/LIVE/2/index.m3u8
 #EXTINF:0,Canal 3
+#EXTGRP:Moldova
 http://91.230.214.75/LIVE/3/2000.m3u8
 #EXTINF:0,Moldova 1
+#EXTGRP:Moldova
 http://live.trm.md:1935/live/_definst_/MoldovaUnu1/chunklist_w866294327.m3u8
 #EXTINF:0,Moldova 2
+#EXTGRP:Moldova
 http://live.trm.md:1935/live/_definst_/MoldovaDoi2/chunklist_w1306778223.m3u8
 #EXTINF:0,Noroc TV
+#EXTGRP:Moldova
 http://live.noroc.tv/hls/noroctv_chisinau.m3u8
 #EXTINF:0,НТВ Молдова
+#EXTGRP:Moldova
 http://93.115.137.166/hls/ntvm.m3u8
 #EXTINF:0,Prime
+#EXTGRP:Moldova
 http://91.230.214.75/LIVE/1/600.m3u8
 #EXTINF:0,Tezaur
+#EXTGRP:Moldova
 http://tezaur.mlbfan.org/tezaur/index.m3u8
 #EXTINF:0,Vocea Basarabiei TV
+#EXTGRP:Moldova
 http://hls.voceabasarabiei.md/hls/vocea_basarabiei.m3u8
 #EXTINF:-1,DTX
 #EXTGRP:Для ForkPlayer
