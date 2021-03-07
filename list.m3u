@@ -1,5 +1,7 @@
-#EXTINF:0,Jurnal TV
-https://live.cdn.jurnaltv.md/JurnalTV_HD/index.m3u8?token=96f789c4b0c2393e2f87c3a9cd163795119b67cd
+#EXTINF:-1 tvg-id="JurnalTV" tvg-name="JurnalTV" tvg-language="Romanian" tvg-logo="" tvg-country="MD" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="",JurnalTV
+https://live2.cdn.jurnaltv.md/JurnalTV_HD/tracks-v1a1/mono.m3u8?token=96f789c4b0c2393e2f87c3a9cd163795119b67cd
+#EXTINF:-1 tvg-id="Prime" tvg-name="Prime" tvg-language="Romanian" tvg-logo="" tvg-country="MD" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="",Prime
+https://livebeta.publika.md/LIVE/1/600.m3u8
 #EXTINF:-1 tvg-id="accent-tv" tvg-name="Accent TV" tvg-language="Romanian" tvg-logo="https://i.imgur.com/K9rVkyb.jpg" tvg-country="MD" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="",Accent TV
 http://video.a-tv.md/hls/accent.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/Z27Eyqv.jpg" tvg-country="MD" tvg-url="" group-title="",Elita TV
@@ -36,7 +38,6 @@ http://91.230.214.75/LIVE/1/600.m3u8
 http://tezaur.mlbfan.org/tezaur/index.m3u8
 #EXTINF:0,Vocea Basarabiei TV
 http://hls.voceabasarabiei.md/hls/vocea_basarabiei.m3u8
-
 #EXTINF:-1,DTX
 #EXTGRP:Для ForkPlayer
 http://live02-cdn.tv.ti.ru:80/dtv/id204_NBN_SG--DiscoveryWorld/03/plst.m3u8
