@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:0,фильмы
+https://raw.githubusercontent.com/oopsadmin/iptv/main/film2.m3u
+#EXTINF:0,Мультфильмы
+https://raw.githubusercontent.com/oopsadmin/iptv/main/multfilm.m3u
