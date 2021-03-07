@@ -8,7 +8,6 @@ https://livebeta.publika.md/LIVE/1/600.m3u8
 #EXTINF:0,Accent TV
 #EXTGRP:Moldova
 http://video.a-tv.md/hls/accent.m3u8
-#EXTGRP:Moldova
 #EXTINF:,Elita TV
 #EXTGRP:Moldova
 http://46.55.111.242:8080/Rezina.m3u8
@@ -109,4 +108,5 @@ http://live02-cdn.tv.ti.ru:80/dtv/id119_NBN_SG--tnt/03/plst.m3u8
 #EXTGRP:Детские
 http://51.68.141.106:8081/tv/cartoon-network/playlist.m3u8
 #EXTINF:0,Настоящее время (1080p)
+#EXTGRP:Для ForkPlayer
 https://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
