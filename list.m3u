@@ -1,6 +1,14 @@
 #EXTM3U
-#EXTINF:0,DTX (ForkPlayer)
-http://live02-cdn.tv.ti.ru:80/dtv/id204_NBN_SG--DiscoveryWorld/03/plst.m3u8
+#EXTINF:0,1 Автомобильный
+http://109.254.6.48:1234/udp/238.1.1.31:1234
+#EXTINF:0,Avto24
+http://31.28.38.231:4022/udp/232.0.2.11:1235
+#EXTINF:0,DTX
+http://89.23.143.25:3371/udp/239.1.11.6:1234
+#EXTINF:0,DTX
+http://89.23.187.171:3371/udp/239.1.11.6:1234
+#EXTINF:0,DTX
+http://89.23.191.220:3371/udp/239.1.11.6:1234
 #EXTINF:0,JurnalTV
 #EXTGRP:Moldova
 https://live2.cdn.jurnaltv.md/JurnalTV_HD/tracks-v1a1/mono.m3u8?token=96f789c4b0c2393e2f87c3a9cd163795119b67cd
