@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:0,1 Автомобильный
-http://109.254.6.48:1234/udp/238.1.1.31:1234
-#EXTINF:0,Avto24
-http://31.28.38.231:4022/udp/232.0.2.11:1235
-#EXTINF:0,DTX
-http://89.23.143.25:3371/udp/239.1.11.6:1234
-#EXTINF:0,DTX
-http://89.23.187.171:3371/udp/239.1.11.6:1234
-#EXTINF:0,DTX
-http://89.23.191.220:3371/udp/239.1.11.6:1234
 #EXTINF:0,JurnalTV
 #EXTGRP:Moldova
 https://live2.cdn.jurnaltv.md/JurnalTV_HD/tracks-v1a1/mono.m3u8?token=96f789c4b0c2393e2f87c3a9cd163795119b67cd
@@ -177,4 +167,193 @@ http://freeiptv.uk.to:8738/mfolive.m3u8?media=viasat_nature
 http://freeiptv.uk.to:8738/mfolive.m3u8?media=viasat_history
 #EXTINF:-1,Моя Планета
 http://a3569456481-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
+#EXTINF: -1,Moldova 1
+http://212.0.215.115/Moldova1/mpegts
+#EXTINF: -1,Moldova 2
+http://212.0.215.115/Moldova2/mpegts
+#EXTINF: -1,Jurnal TV
+http://212.0.215.115/JurnalTV/mpegts
+#EXTINF: -1,Publika
+http://212.0.215.115:80/PublikaTV/mpegts
+#EXTINF: -1,Pro TV Chi?inau
+http://212.0.215.115/ProTV/mpegts
+#EXTINF: -1,Canal 3
+http://212.0.215.115/Canal3/mpegts
+#EXTINF: -1,Canal 2
+http://212.0.215.115/Canal2/mpegts
+#EXTINF: -1,TV8
+http://212.0.215.115/TV8/mpegts
+#EXTINF: -1,Noroc TV
+http://212.0.215.115/NorocTV/mpegts
+#EXTINF: -1,Taraf TV
+http://212.0.215.115/TarafTV/mpegts
+#EXTINF: -1,Etno TV
+http://212.0.215.115/EtnoTV/mpegts
+#EXTINF: -1,Favorit TV
+http://212.0.215.115/Favorit/mpegts
+#EXTINF: -1,Gurinel
+http://212.0.215.115/Gurinel/mpegts
+#EXTINF: -1,Busuioc
+http://212.0.215.115/Busuioc/mpegts
+#EXTINF: -1,Zona M TV Moldova
+http://212.0.215.115/ZonaM/mpegts
+#EXTINF: -1,Ru TV Moldova
+http://212.0.215.115/RuTV/mpegts
+#EXTINF: -1,Aur TV Moldova
+http://212.0.215.115/GoldTV/mpegts
+#EXTINF: -1,UTV
+http://212.0.215.106/UTV/mpegts
+#EXTINF: -1,Studioul L
+http://212.0.215.115/StudioL/mpegts
+#EXTINF: -1,MBC
+http://212.0.215.115/MBC/mpegts
+#EXTINF: -1,Cimislia TV
+http://212.0.215.115/MediaTV/mpegts
+#EXTINF: -1,N4
+http://212.0.215.115/N4/mpegts
+#EXTINF: -1,Regional
+http://212.0.215.115/Regional/mpegts
+#EXTINF: -1,TV na?ional
+http://212.0.215.115/National/mpegts
+#EXTINF: -1,Romania TV
+http://212.0.215.115/RomaniaTV/mpegts
+#EXTINF: -1,TV Prim
+http://212.0.215.115/TVPrim/index.m3u8
+#EXTINF: -1,TVR
+http://212.0.215.115/TVR/index.m3u8
+#EXTINF: -1,TVC 21
+http://212.0.215.115/TVC21/mpegts
+#EXTINF: -1,STS Mega
+http://212.0.215.115/STS/mpegts
+#EXTINF: -1,Orhei TV
+http://212.0.215.115/OrheiTV/mpegts
+#EXTINF: -1,TV axial
+http://212.0.215.115/AxialTV/mpegts
+#EXTINF: -1,10 TV
+http://212.0.215.115/10TV/mpegts
+#EXTINF: -1,TV8
+#EXTINF: -1,ITV Moldova
+http://212.0.215.115/ITV/mpegts
+#EXTINF: -1,Agro TV
+http://212.0.215.115/AgroTV/mpegts
+#EXTINF: -1,Minimax TV
+http://212.0.215.115/Minimax/mpegts
+#EXTINF: -1,Televisiunea Centrala
+http://212.0.215.115/EuroTV/mpegts
+#EXTINF: -1,?or TV
+http://212.0.215.115/SorTV/mpegts
+#EXTINF: -1,Privesc.EU
+http://do.privesc.eu/live1/myStream/playlist.m3u8
+#EXTINF: -1,UN TELEVIZOR
+http://212.0.215.115/ATV/mpegts
+#EXTINF: -1,RTR Moldova
+http://212.0.215.115/RTR/mpegts
+#EXTINF: -1,Kanal D
+http://212.0.215.115/KanalD/mpegts
+#EXTINF: -1,TVR 1
+http://89.136.209.26:1935/liveedge/TVR1.stream/playlist.m3u8
+#EXTINF: -1,TVR 2
+http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8
+#EXTINF: -1,TVR 3
+http://89.136.209.26:1935/liveedge/TVR3.stream/playlist.m3u8
+#EXTINF: -1,Eurosport 1
+http://212.0.215.115/Eurosport/mpegts
+#EXTINF: -1,Setanta Sport 1
+http://212.0.215.115/Setanta/mpegts
+#EXTINF: -1,Sportul 1
+http://212.0.215.115/Sport1/mpegts
+#EXTINF: -1,Soiuz
+http://212.0.215.115/Soiuz/index.m3u8
+#EXTINF: -1,Кино ТВ
+http://212.0.215.115/KinoTV/mpegts
+#EXTINF: -1,TV1000
+http://212.0.215.115/TV1000/mpegts
+#EXTINF: -1,Киносемья
+http://212.0.215.115/KinoSemya/mpegts
+#EXTINF: -1,Sony Turbo
+http://212.0.215.115/SonyTurbo/mpegts
+#EXTINF: -1,A STABILIT
+http://212.0.215.115/SET/mpegts
+#EXTINF: -1,Viata de vulpe
+http://212.0.215.115/FoxLife/mpegts
+#EXTINF: -1,Vulpe
+http://212.0.215.115/Fox/mpegts
+#EXTINF: -1,Star Cinema
+http://212.0.215.115/StarCinema/mpegts
+#EXTINF: -1,FilmUaDrama
+http://212.0.215.115/FilmUaDrama/mpegts
+#EXTINF: -1,India TV
+http://212.0.215.115/IndiaTV/mpegts
+#EXTINF: -1,Canal descoperire
+http://212.0.215.115/Discovery/mpegts
+#EXTINF: -1,GRT
+http://212.0.215.115/GRT/mpegts
+#EXTINF:-1,Spike
+http://212.0.215.106/Spike/mpegts
+#EXTINF:-1,Cinethronix
+http://212.0.215.106/Cinethronix/mpegts
+#EXTINF:-1,Travel Mix
+http://212.0.215.106/TravelMix/mpegts
+#EXTINF:-1,GURINEL
+http://212.0.215.106/Gurinel/mpegts
+#EXTINF:-1,MULTFILM
+http://212.0.215.106/Mult/mpegts
+#EXTINF:-1,TV1000 ACTION
+http://212.0.215.106/TV1000Act/mpegts
+#EXTINF:-1,TV1000 RUSKOE KINO
+http://212.0.215.106/TV1000Rk/mpegts
+#EXTINF:-1,Comedia
+http://212.0.215.106/Comedia/mpegts
+#EXTINF:-1,NIKOLODION
+http://212.0.215.106/Nick/mpegts
+#EXTINF:-1,DISNEY
+http://212.0.215.106/DisneyChannel/mpegts
+#EXTINF:-1,EXPLORER
+http://212.0.215.106/Explorer/mpegts
+#EXTINF:-1,TRAVEL
+http://212.0.215.106/Travel/mpegts
+#EXTINF:-1,MIR
+http://212.0.215.106/Mir/mpegts
+#EXTINF:-1,GOLD TV
+http://212.0.215.106/GoldTV/mpegts
+#EXTINF:-1,ZONA M
+http://212.0.215.106/ZonaM/mpegts
+#EXTINF:-1,RU TV
+http://212.0.215.106/RuTV/mpegts
+#EXTINF:-1,THT MUSIK
+http://212.0.215.106/THTMusic/mpegts
+#EXTINF:-1,U TV
+http://212.0.215.106/UTV/mpegts
+#EXTINF:-1,TARAF TV
+http://212.0.215.106/TarafTV/mpegts
+#EXTINF:-1,MIR 24
+http://212.0.215.106/Mir24/mpegts
+#EXTINF:-1,PRO TV2
+http://212.0.215.106/PRO2/mpegts
+#EXTINF:-1,KINOHIT
+http://212.0.215.106/Kinohit/mpegts
+#EXTINF:-1,KINO SEMIA
+http://212.0.215.106/KinoSemya/mpegts
+#EXTINF: -1,TVC21
+http://212.0.215.115:80/TVC21/mpegts
+#EXTINF: -1,AgroTV
+http://212.0.215.115:80/AgroTV/mpegts
+#EXTINF: -1,SorTV
+http://212.0.215.115:80/SorTV/mpegts
+#EXTINF: -1,Drochia
+http://212.0.215.115:80/Drochia/mpegts
+#EXTINF: -1,TVPrim
+http://212.0.215.115:80/TVPrim/mpegts
+#EXTINF: -1,MediaTV
+http://212.0.215.115:80/MediaTV/mpegts
+#EXTINF: -1,EuroTV
+http://212.0.215.115:80/EuroTV/mpegts
+#EXTINF: -1,MBC
+http://212.0.215.115:80/MBC/mpegts
+#EXTINF: -1,TVR Moldova
+http://212.0.215.115:80/TVR/mpegts
+#EXTINF: -1,NorocTV
+http://212.0.215.115:80/NorocTV/mpegts
+#EXTINF: -1,Busuioc
+http://212.0.215.115:80/Busuioc/mpegts
 
