@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,DTX (ForkPlayer)
+#EXTINF:0,DTX (ForkPlayer)
 http://live02-cdn.tv.ti.ru:80/dtv/id204_NBN_SG--DiscoveryWorld/03/plst.m3u8
 #EXTINF:0,JurnalTV
 #EXTGRP:Moldova
