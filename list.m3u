@@ -110,3 +110,192 @@ http://51.68.141.106:8081/tv/cartoon-network/playlist.m3u8
 #EXTINF:0,Настоящее время (1080p)
 #EXTGRP:Для ForkPlayer
 https://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
+
+#EXTINF:-1,Discovery
+http://147.135.210.90:8081/tv/Discovery/chunks.m3u8
+#EXTINF:-1,Discovery Channel
+http://109.200.130.124:7006/play/a00x
+#EXTINF:-1,Discovery Science
+http://51.195.44.53:8081/tv/discovery-science/playlist.m3u8
+#EXTINF:-1,Investigation Discovery
+http://109.200.130.124:7006/play/a02u
+#EXTINF:-1,National Geographic
+http://51.195.44.53:8081/tv/national-geographic/chunks.m3u8
+#EXTINF:-1,National Geographic HD
+http://freeiptv.uk.to:8738/mfolive.m3u8?media=national_geographic
+#EXTINF:-1,Net Geo Wild
+http://51.195.44.53:8081/tv/nat-geo-wild/playlist.m3u8
+#EXTINF:-1,National Geographic Wild HD
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+#EXTINF:-1,Animal Planet
+http://109.200.130.124:7006/play/a00v
+#EXTINF:-1,Animal Planet
+http://51.195.44.53:8081/tv/animal-planet/chunks.m3u8
+#EXTINF:-1,Animal Planet HD
+https://s4.idata.uz/animal/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Da Vinci
+http://89.106.234.3:80/DaVinci_34_35.m3u8
+#EXTINF:-1,HDL
+http://89.106.234.3:80/hdl_34_35.m3u8
+#EXTINF:-1,HDL HD
+https://sc.id-tv.kz/hdl_38_39.m3u8
+#EXTINF:-1,TLC HD
+http://cache0.airnet.lt/z3/tlchd/index.m3u8
+#EXTINF:-1,TLC
+http://sc.id-tv.kz:80/TLCHD_34_35.m3u8
+#EXTINF:-1,TLC
+https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist.sltur.m3u8
+#EXTINF:-1,TLC HD
+https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
+#EXTINF:-1,Поехали!
+http://89.106.234.3:80/poehali_34_35.m3u8
+#EXTINF:-1,Общественное Независимое Телевидение
+https://ch.iptvmate.net/a46f7aba4c40d62799b6ca0296fb7f6c.m3u8
+#EXTINF:-1,ТВ Экстра HD
+http://live-1.otcnet.ru:80/tvextra720b/index.m3u8
+#EXTINF:-1,Авто плюс
+https://s4.idata.uz/avtoplyus/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Охота И Рыбалка
+https://s3.idata.uz/dars5/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Охота и рыбалка
+http://51.68.141.106:8081/tv/ohota-i-ryibalka/playlist.m3u8
+#EXTINF:-1,Viasat Explore HD
+http://freeiptv.uk.to:8738/mfolive.m3u8?media=viasat_explore
+#EXTINF:-1,Viasat Nature FHD
+http://freeiptv.uk.to:8738/mfolive.m3u8?media=viasat_nature
+#EXTINF:-1,Viasat History HD
+http://freeiptv.uk.to:8738/mfolive.m3u8?media=viasat_history
+#EXTINF:-1,Моя Планета
+http://a3569456481-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,Калейдоскоп ТВ
+http://live-1.otcnet.ru/kaleidoskop/tracks-v1a1/index.m3u8
+#EXTINF:-1,H2 HD
+http://178.33.37.66/stream/8ASIXG9QVB/65.m3u8
+#EXTINF:-1,История
+http://78.30.254.135/1822/index.m3u8
+#EXTINF:-1,Приключения HD
+http://78.30.254.135/2058/index.m3u8
+#EXTINF:-1,Космический
+http://78.30.254.135/2056/index.m3u8
+#EXTINF:-1,Приключения HD
+http://80.89.196.34:8085/travel/index.m3u8
+#EXTINF:-1,Тномер
+http://flu.ttk.mx:9090/Tnomer/index.m3u8
+#EXTINF:-1,Доктор
+http://flu.ttk.mx:9090/Doktor/index.m3u8
+#EXTINF:-1,Психология
+http://flu.ttk.mx:9090/Psihologiya21/index.m3u8
+#EXTINF:-1,Зоопарк
+http://flu.ttk.mx:9090/Zoopark/index.m3u8
+#EXTINF:-1,АВТО24
+http://flu.ttk.mx:9090/Avto24/index.m3u8
+#EXTINF:-1,Усадьба
+http://flu.ttk.mx:9090/Usadba/index.m3u8
+#EXTINF:-1,Поехали!
+http://89.106.234.3:80/poehali_34_35.m3u8
+#EXTINF:-1,ДРАЙВ
+http://94.230.240.12:8080/drive/index.m3u8
+#EXTINF:-1,Nano
+http://94.230.240.12:8080/nanotv/index.m3u8
+#EXTINF:-1,Наука 2.0
+http://94.230.240.12:8080/nauka2/index.m3u8
+#EXTINF:0,Релакс
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:-1,Камин
+http://v2.catcast.me/content/36334/index.m3u8
+#EXTINF:-1,DTX (ForkPlayer)
+http://live02-cdn.tv.ti.ru:80/dtv/id204_NBN_SG--DiscoveryWorld/03/plst.m3u8
+#EXTINF:-1,Моя Планета (ForkPlayer)
+http://live02-cdn.tv.ti.ru:80/dtv/id205_NBN_SG--MyPlannet/03/plst.m3u8
+#EXTINF:-1,Охота и Рыбалка (ForkPlayer)
+http://live02-cdn.tv.ti.ru:80/dtv/id1281_NBN_SG--Ohota_Rybalka/03/plst.m3u8
+#EXTINF:-1,Авто 24 (ForkPlayer)
+http://live02-cdn.tv.ti.ru:80/dtv/id243_NBN_SG--Auto24/03/plst.m3u8
+#EXTINF:-1,Живи! (ForkPlayer)
+http://live02-cdn.tv.ti.ru:80/dtv/id144_NBN_SG--Zhivi/02/plst.m3u8
+#EXTINF:-1,Кухня ТВ (ForkPlayer)
+http://live02-cdn.tv.ti.ru:80/dtv/id1345_NBN_SG--kuhnya_tv_wflite/03/plst.m3u8
+#EXTINF:-1,Открытый Мир (ForkPlayer)
+http://live02-cdn.tv.ti.ru:80/dtv/id699_NBN_SG--otkritij_mir/03/plst.m3u8
+#EXTINF:-1,Нано ТВ (ForkPlayer)
+http://live02-cdn.tv.ti.ru:80/dtv/id1066_NBN_SG--NanoTV/03/plst.m3u8
+#EXTINF:-1,Luxury SD (ForkPlayer)
+http://live02-cdn.tv.ti.ru:80/dtv/id1087_NBN_SG--LuxurySD/03/plst.m3u8
+#EXTINF:-1,Загородная Жизнь (ForkPlayer)
+http://live02-cdn.tv.ti.ru:80/dtv/id371_NBN_SG--Zagorodnaya_zhizn/01/plst.m3u8
+#EXTINF:-1,Ocean TV (ForkPlayer)
+http://live02-cdn.tv.ti.ru:80/dtv/id129_NBN_SG--ocean/03/plst.m3u8
+#EXTINF:-1,Наука 2.0 (ForkPlayer)
+http://live02-cdn.tv.ti.ru:80/dtv/id240_NBN_SG--Nauka/03/plst.m3u8
+#EXTINF:-1,Fashion TV (ForkPlayer)
+http://live02-cdn.tv.ti.ru:80/dtv/id713_NBN_SG--fashiontv/03/plst.m3u8
+#EXTINF:-1,Иллюзион+ (ForkPlayer)
+http://live02-cdn.tv.ti.ru:80/dtv/id206_NBN_SG--IllusionPlus/03/plst.m3u8
+#EXTINF:-1,Spike (ForkPlayer)
+http://live02-cdn.tv.ti.ru:80/dtv/id505_NBN_SG--Spike/03/plst.m3u8
+#EXTINF:-1,О!Кино (ForkPlayer)
+http://live02-cdn.tv.ti.ru:80/dtv/id1143_NBN_SG--Okino/03/plst.m3u8
+#EXTINF:-1,Extreme Sports (ForkPlayer)
+http://live02-cdn.tv.ti.ru:80/dtv/id213_NBN_SG--ExtremeSport/03/plst.m3u8
+#EXTINF:-1,Мультимузыка (ForkPlayer)
+http://live02-cdn.tv.ti.ru:80/dtv/id233_NBN_SG--Strana/03/plst.m3u8
+#EXTINF:-1,Карусель (ForkPlayer)
+http://live02-cdn.tv.ti.ru:80/dtv/id342_NBN_SG--Karusel/03/plst.m3u8
+#EXTINF:-1,2x2 (ForkPlayer)
+http://live02-cdn.tv.ti.ru:80/dtv/id105_NBN_SG--2x2/03/plst.m3u8
+#EXTINF:-1,JimJam (ForkPlayer)
+http://live02-cdn.tv.ti.ru:80/dtv/id249_NBN_SG--JimJam/03/plst.m3u8
+#EXTINF:-1,Boomerang (ForkPlayer)
+http://live02-cdn.tv.ti.ru:80/dtv/id142_NBN_SG--boomerang/03/plst.m3u8
+#EXTINF:-1,Первый Канал (ForkPlayer)
+http://live02-cdn.tv.ti.ru:80/dtv/id104_NBN_SG--1TV/03/plst.m3u8
+#EXTINF:-1,Россия 1 (ForkPlayer)
+http://live02-cdn.tv.ti.ru:80/dtv/id188_NBN_SG--Rossia1/03/plst.m3u8
+#EXTINF:-1,Россия 24 (ForkPlayer)
+http://live02-cdn.tv.ti.ru:80/dtv/id165_NBN_SG--Rossia24/03/plst.m3u8
+#EXTINF:-1,Россия К (ForkPlayer)
+http://live02-cdn.tv.ti.ru:80/dtv/id163_NBN_SG--RossiaK/03/plst.m3u8
+#EXTINF:-1,НТВ (ForkPlayer)
+http://live02-cdn.tv.ti.ru:80/dtv/id196_NBN_SG--NTV/03/plst.m3u8
+#EXTINF:-1,Пятница (ForkPlayer)
+http://live02-cdn.tv.ti.ru:80/dtv/id127_NBN_SG--pjatnica/03/plst.m3u8
+#EXTINF:-1,СТС (ForkPlayer)
+http://live02-cdn.tv.ti.ru:80/dtv/id121_NBN_SG--sts/03/plst.m3u8
+#EXTINF:-1,ТВ-3 (ForkPlayer)
+http://live02-cdn.tv.ti.ru:80/dtv/id177_NBN_SG--tv3/03/plst.m3u8
+#EXTINF:-1,Звезда (ForkPlayer)
+http://live02-cdn.tv.ti.ru:80/dtv/id269_NBN_SG--zvezda/03/plst.m3u8
+#EXTINF:-1,Мир (ForkPlayer)
+http://live02-cdn.tv.ti.ru:80/dtv/id218_NBN_SG--Mir/03/plst.m3u8
+#EXTINF:-1,ТНТ (ForkPlayer)
+http://live02-cdn.tv.ti.ru:80/dtv/id119_NBN_SG--tnt/03/plst.m3u8
+#EXTINF:-1,Ю (ForkPlayer)
+http://live02-cdn.tv.ti.ru:80/dtv/id115_NBN_SG--u-channel/03/plst.m3u8
+#EXTINF:-1,ТВЦ (ForkPlayer)
+http://live02-cdn.tv.ti.ru:80/dtv/id148_NBN_SG--TVC/03/plst.m3u8
+#EXTINF:-1,ОТР (ForkPlayer)
+http://live02-cdn.tv.ti.ru:80/dtv/id270_NBN_SG--OTR/03/plst.m3u8
+#EXTINF:-1,Спас (ForkPlayer)
+http://live02-cdn.tv.ti.ru:80/dtv/id122_NBN_SG--spas/03/plst.m3u8
+#EXTINF:-1,Первый Образовательный (ForkPlayer)
+http://live02-cdn.tv.ti.ru:80/dtv/id523_NBN_SG--pervobraz/03/plst.m3u8
+#EXTINF:-1,Евроновости (ForkPlayer)
+http://live02-cdn.tv.ti.ru:80/dtv/id260_NBN_SG--euronews/03/plst.m3u8
+#EXTINF:-1,7ТВ (ForkPlayer)
+http://live02-cdn.tv.ti.ru:80/dtv/id700_NBN_SG--7TV/01/plst.m3u8
+#EXTINF:-1,Наша Тема (ForkPlayer)
+http://live02-cdn.tv.ti.ru:80/dtv/id781_NBN_SG--Nashatema/03/plst.m3u8
+#EXTINF:-1,RTG (ForkPlayer)
+http://live02-cdn.tv.ti.ru:80/dtv/id225_NBN_SG--RTG/03/plst.m3u8
+#EXTINF:-1,Точка Отрыва (ForkPlayer)
+http://live02-cdn.tv.ti.ru:80/dtv/id1051_NBN_SG--TochkaOtriva/03/plst.m3u8
+#EXTINF:-1,Musicbox Gold (ForkPlayer)
+http://live02-cdn.tv.ti.ru:80/dtv/id220_NBN_SG--musicbox/03/plst.m3u8
+#EXTINF:-1,Муз ТВ (ForkPlayer)
+http://live02-cdn.tv.ti.ru:80/dtv/id132_NBN_SG--muz-tv/03/plst.m3u8
+#EXTINF:-1,ТНТ Music (ForkPlayer)
+http://live02-cdn.tv.ti.ru:80/dtv/id379_NBN_SG--A_One/03/plst.m3u8
+#EXTINF:-1,Russian Musicbox (ForkPlayer)
+http://live02-cdn.tv.ti.ru:80/dtv/id208_NBN_SG--MusicBoxRU/02/plst.m3u8
+#EXTINF:-1,Bridge TV Hits (ForkPlayer)
+http://live02-cdn.tv.ti.ru:80/dtv/id140_NBN_SG--dangetv/03/plst.m3u8
