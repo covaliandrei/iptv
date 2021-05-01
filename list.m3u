@@ -54,67 +54,14 @@ http://tezaur.mlbfan.org/tezaur/index.m3u8
 #EXTGRP:Moldova
 http://hls.voceabasarabiei.md/hls/vocea_basarabiei.m3u8
 
-#EXTINF:0,DTX
-#EXTGRP:Для ForkPlayer
-http://live02-cdn.tv.ti.ru:80/dtv/id204_NBN_SG--DiscoveryWorld/03/plst.m3u8
-#EXTINF:0,Открытый Мир
-#EXTGRP:Для ForkPlayer
-http://live02-cdn.tv.ti.ru:80/dtv/id699_NBN_SG--otkritij_mir/03/plst.m3u8
-#EXTINF:0,Нано ТВ
-#EXTGRP:Для ForkPlayer
-http://live02-cdn.tv.ti.ru:80/dtv/id1066_NBN_SG--NanoTV/03/plst.m3u8
-#EXTINF:0,Загородная Жизнь
-#EXTGRP:Для ForkPlayer
-http://live02-cdn.tv.ti.ru:80/dtv/id371_NBN_SG--Zagorodnaya_zhizn/01/plst.m3u8
-#EXTINF:0,Первый Канал
-#EXTGRP:Для ForkPlayer
-http://live02-cdn.tv.ti.ru:80/dtv/id104_NBN_SG--1TV/03/plst.m3u8
-#EXTINF:0,Россия 1
-#EXTGRP:Для ForkPlayer
-http://live02-cdn.tv.ti.ru:80/dtv/id188_NBN_SG--Rossia1/03/plst.m3u8
-#EXTINF:0,Россия 24
-#EXTGRP:Для ForkPlayer
-http://live02-cdn.tv.ti.ru:80/dtv/id165_NBN_SG--Rossia24/03/plst.m3u8
-#EXTINF:0,Россия К
-#EXTGRP:Для ForkPlayer
-http://live02-cdn.tv.ti.ru:80/dtv/id163_NBN_SG--RossiaK/03/plst.m3u8
-#EXTINF:0,НТВ
-#EXTGRP:Для ForkPlayer
-http://live02-cdn.tv.ti.ru:80/dtv/id196_NBN_SG--NTV/03/plst.m3u8
-#EXTINF:0,Пятница
-#EXTGRP:Для ForkPlayer
-http://live02-cdn.tv.ti.ru:80/dtv/id127_NBN_SG--pjatnica/03/plst.m3u8
-#EXTINF:0,СТС
-#EXTGRP:Для ForkPlayer
-http://live02-cdn.tv.ti.ru:80/dtv/id121_NBN_SG--sts/03/plst.m3u8
-#EXTINF:0,ТВ-3
-#EXTGRP:Для ForkPlayer
-http://live02-cdn.tv.ti.ru:80/dtv/id177_NBN_SG--tv3/03/plst.m3u8
-#EXTINF:0,Звезда
-#EXTGRP:Для ForkPlayer
-http://live02-cdn.tv.ti.ru:80/dtv/id269_NBN_SG--zvezda/03/plst.m3u8
-#EXTINF:0,Мир
-#EXTGRP:Для ForkPlayer
-http://live02-cdn.tv.ti.ru:80/dtv/id218_NBN_SG--Mir/03/plst.m3u8
-#EXTINF:0,ТНТ
-#EXTGRP:Для ForkPlayer
-http://live02-cdn.tv.ti.ru:80/dtv/id119_NBN_SG--tnt/03/plst.m3u8
-#EXTINF:0,Cartoon Network
-#EXTGRP:Детские
-http://51.68.141.106:8081/tv/cartoon-network/playlist.m3u8
-#EXTINF:0,Настоящее время (1080p)
-#EXTGRP:Для ForkPlayer
-https://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
 #EXTINF:-1,Моя Планета
 http://a3569456481-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
 #EXTINF:-1,Mezzo HD
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/185
-#EXTINF:-1,InRating TV HD
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/184
+
 #EXTINF:-1,BRIDGE HD
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/183
-#EXTINF:-1,4ever Music HD
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/182
+
 #EXTINF:-1,HALA CLUB MUSIC HD
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/181
 #EXTINF:-1,Trace Urban HD
@@ -137,10 +84,6 @@ http://5.9.21.114:3000/covx9569/eWcA01DVIL/173
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/172
 #EXTINF:-1,MTV club
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/171
-#EXTINF:-1,MTV Rocks
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/170
-#EXTINF:-1,MTV Hits
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/169
 #EXTINF:-1,Че!
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/168
 #EXTINF:-1,Крик-ТВ
@@ -151,16 +94,6 @@ http://5.9.21.114:3000/covx9569/eWcA01DVIL/166
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/165
 #EXTINF:-1,Москва Доверие
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/164
-#EXTINF:-1,КРЫМ 24
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/163
-#EXTINF:-1,Первый Крымский
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/162
-#EXTINF:-1,Домашний
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/161
-#EXTINF:-1,Телеканал Звезда
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/160
-#EXTINF:-1,Ю ТВ
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/159
 #EXTINF:-1,Мир
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/158
 #EXTINF:-1,Суббота
@@ -195,8 +128,6 @@ http://5.9.21.114:3000/covx9569/eWcA01DVIL/144
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/143
 #EXTINF:-1,РЕН ТВ (+2)
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/142
-#EXTINF:-1,РЕН ТВ HD
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/141
 #EXTINF:-1,Санкт-Петербург
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/140
 #EXTINF:-1,Время
@@ -209,16 +140,8 @@ http://5.9.21.114:3000/covx9569/eWcA01DVIL/137
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/136
 #EXTINF:-1,НТВ HD
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/135
-#EXTINF:-1,НТВ Мир
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/134
-#EXTINF:-1,ТНТ4
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/133
 #EXTINF:-1,ТНТ (+6)
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/132
-#EXTINF:-1,ТНТ (+4)
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/131
-#EXTINF:-1,ТНТ (+2)
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/130
 #EXTINF:-1,ТНТ HD
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/129
 #EXTINF:-1,Планета РТР
@@ -227,30 +150,12 @@ http://5.9.21.114:3000/covx9569/eWcA01DVIL/128
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/127
 #EXTINF:-1,Россия 1 (+2)
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/126
-#EXTINF:-1,Россия 1 HD
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/125
-#EXTINF:-1,Россия 1
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/124
-#EXTINF:-1,Первый канал (+2)
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/123
-#EXTINF:-1,Первый HD
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/122
 #EXTINF:-1,English Club TV
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/121
-#EXTINF:-1,Первый Метео
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/120
-#EXTINF:-1,Точка ТВ
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/119
 #EXTINF:-1,E!
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/118
 #EXTINF:-1,Просвещение
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/117
-#EXTINF:-1,Телеканал СПАС
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/116
-#EXTINF:-1,Сарафан
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/115
-#EXTINF:-1,Живи!
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/114
 #EXTINF:-1,ТДК
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/113
 #EXTINF:-1,Ностальгия
@@ -259,10 +164,6 @@ http://5.9.21.114:3000/covx9569/eWcA01DVIL/112
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/111
 #EXTINF:-1,ТБН
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/110
-#EXTINF:-1,Ретро
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/109
-#EXTINF:-1,Союз
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/108
 #EXTINF:-1,Food Network HD
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/107
 #EXTINF:-1,Первый вегетарианский
@@ -277,8 +178,6 @@ http://5.9.21.114:3000/covx9569/eWcA01DVIL/103
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/102
 #EXTINF:-1,Здоровое ТВ
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/101
-#EXTINF:-1,Доктор
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/100
 #EXTINF:-1,Fashion TV HD
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/99
 #EXTINF:-1,8 канал
@@ -291,16 +190,10 @@ http://5.9.21.114:3000/covx9569/eWcA01DVIL/96
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/95
 #EXTINF:-1,Оплот ТВ HD
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/94
-#EXTINF:-1,Новороссия HD
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/93
 #EXTINF:-1,7D7TV
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/92
 #EXTINF:-1,КВН ТВ
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/91
-#EXTINF:-1,France 24
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/90
-#EXTINF:-1,RT English
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/89
 #EXTINF:-1,Мир 24
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/88
 #EXTINF:-1,RT Doc
@@ -313,170 +206,10 @@ http://5.9.21.114:3000/covx9569/eWcA01DVIL/85
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/84
 #EXTINF:-1,CNN
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/83
-#EXTINF:-1,Ale Kino+ HD PL
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/82
-#EXTINF:-1,Canal+ Seriale HD PL
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/81
-#EXTINF:-1,Canal+ Family HD PL
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/80
-#EXTINF:-1,Canal+ Film HD PL
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/79
 #EXTINF:-1,Teletoon+ HD PL
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/78
-#EXTINF:-1,Planete+ HD PL
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/77
-#EXTINF:-1,Discovery Historia PL
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/76
-#EXTINF:-1,Polsat Play HD PL
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/75
-#EXTINF:-1,Polsat Film HD PL
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/74
-#EXTINF:-1,Kino Polska Muzyka PL
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/73
-#EXTINF:-1,Fightklub HD PL
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/72
-#EXTINF:-1,Eleven Sports HD PL
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/71
-#EXTINF:-1,Canal+ sport 2 HD PL
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/70
-#EXTINF:-1,Eleven HD PL
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/69
-#EXTINF:-1,HBO 2 HD PL
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/68
-#EXTINF:-1,Polsat 2 HD PL
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/67
-#EXTINF:-1,TVP Polonia
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/66
-#EXTINF:-1,TVP INFO HD
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/65
-#EXTINF:-1,TV3 Life
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/64
-#EXTINF:-1,TV6
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/63
-#EXTINF:-1,TV3
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/62
 #EXTINF:-1,3+
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/61
-#EXTINF:-1,LTV7
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/60
-#EXTINF:-1,LTV1
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/59
-#EXTINF:-1,Lietuvos Rytas
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/58
-#EXTINF:-1,LNK
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/57
-#EXTINF:-1,LRT Televizija
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/56
-#EXTINF:-1,TV8
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/55
-#EXTINF:-1,Kidzone
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/54
-#EXTINF:-1,TV6
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/53
-#EXTINF:-1,BTV
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/52
-#EXTINF:-1,TV3
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/51
-#EXTINF:-1,TV1
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/50
-#EXTINF:-1,Star GR
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/49
-#EXTINF:-1,Skai GR
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/48
-#EXTINF:-1,Mega GR
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/47
-#EXTINF:-1,Makedonia GR
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/46
-#EXTINF:-1,E GR
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/45
-#EXTINF:-1,ANT 1 GR
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/44
-#EXTINF:-1,Alph GR
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/43
-#EXTINF:-1,Vouli GR
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/42
-#EXTINF:-1,ERT 3 GR
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/41
-#EXTINF:-1,ERT 2 GR
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/40
-#EXTINF:-1,ERT 1 GR
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/39
-#EXTINF:-1,Smile GR
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/38
-#EXTINF:-1,Alert GR
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/37
-#EXTINF:-1,Nick GR
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/36
-#EXTINF:-1,Rise GR
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/35
-#EXTINF:-1,Ch9 GR
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/34
-#EXTINF:-1,BluSky GR
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/33
-#EXTINF:-1,Attica GR
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/32
-#EXTINF:-1,Action 24 GR
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/31
-#EXTINF:-1,Mad GR
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/30
-#EXTINF:-1,Kontra GR
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/29
-#EXTINF:-1,Extra GR
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/28
-#EXTINF:-1,ERT HD GR
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/27
-#EXTINF:-1,Pirveli
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/26
-#EXTINF:-1,Obieqtivi TV
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/25
-#EXTINF:-1,Ajara TV
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/24
-#EXTINF:-1,GDS TV
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/23
-#EXTINF:-1,Maestro
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/22
-#EXTINF:-1,Saperavi TV
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/21
-#EXTINF:-1,Imedi TV
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/20
-#EXTINF:-1,TV 25
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/19
-#EXTINF:-1,1 TV
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/18
-#EXTINF:-1,Idman AZ
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/17
-#EXTINF:-1,CBC Sport AZ
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/16
-#EXTINF:-1,Region TV AZ
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/15
-#EXTINF:-1,Trkel TV AZ
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/14
-#EXTINF:-1,Gunesh AZ
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/13
-#EXTINF:-1,ANS TV AZ
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/12
-#EXTINF:-1,Samanyolu Haber AZ
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/11
-#EXTINF:-1,Space TV AZ
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/10
-#EXTINF:-1,Lider TV AZ
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/9
-#EXTINF:-1,AMC AZ
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/8
-#EXTINF:-1,AzTV AZ
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/7
-#EXTINF:-1,Ictimai TV AZ
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/6
-#EXTINF:-1,CBC AZ
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/5
-#EXTINF:-1,Medeniyyet AZ
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/4
-#EXTINF:-1,Xazar TV AZ
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/3
-#EXTINF:-1,Azad TV AZ
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/2
-#EXTINF:-1,InterAz AZ
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/1
 #EXTINF:-1,VH1 Europe
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/186
 #EXTINF:-1,Шансон ТВ
@@ -495,8 +228,6 @@ http://5.9.21.114:3000/covx9569/eWcA01DVIL/192
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/193
 #EXTINF:-1,M2 HD
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/194
-#EXTINF:-1,TMB RU
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/195
 #EXTINF:-1,О2ТВ
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/196
 #EXTINF:-1,Ля-минор
@@ -551,14 +282,8 @@ http://5.9.21.114:3000/covx9569/eWcA01DVIL/220
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/221
 #EXTINF:-1,Наше Мужское HD
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/222
-#EXTINF:-1,Хит HD
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/223
 #EXTINF:-1,Блокбастер HD
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/224
-#EXTINF:-1,Остросюжетное HD
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/225
-#EXTINF:-1,Страшное HD
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/226
 #EXTINF:-1,Киноужас HD
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/227
 #EXTINF:-1,Про Любовь HD
@@ -573,10 +298,6 @@ http://5.9.21.114:3000/covx9569/eWcA01DVIL/231
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/232
 #EXTINF:-1,КИНОСЕМЬЯ
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/233
-#EXTINF:-1,КИНОСВИДАНИЕ
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/234
-#EXTINF:-1,КИНОКОМЕДИЯ
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/235
 #EXTINF:-1,Шокирующее
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/236
 #EXTINF:-1,Комедийное
@@ -607,28 +328,18 @@ http://5.9.21.114:3000/covx9569/eWcA01DVIL/248
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/249
 #EXTINF:-1,Sony HD
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/250
-#EXTINF:-1,SONY Sci-Fi
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/251
-#EXTINF:-1,Paramount Channel HD
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/252
 #EXTINF:-1,AMC
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/253
 #EXTINF:-1,Hollywood HD
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/254
-#EXTINF:-1,Paramount Comedy Russia
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/255
 #EXTINF:-1,Sony Entertainment Television
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/256
 #EXTINF:-1,Fox Life
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/257
 #EXTINF:-1,Fox
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/258
-#EXTINF:-1,TV XXI
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/259
 #EXTINF:-1,Paramount Comedy HD
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/260
-#EXTINF:-1,НТВ Сериал
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/261
 #EXTINF:-1,НТВ Хит
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/262
 #EXTINF:-1,Кинопоказ
@@ -637,8 +348,6 @@ http://5.9.21.114:3000/covx9569/eWcA01DVIL/263
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/264
 #EXTINF:-1,Кино ТВ HD
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/265
-#EXTINF:-1,BCU Action HD
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/266
 #EXTINF:-1,BCU Catastrophe HD
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/267
 #EXTINF:-1,BCU Comedy HD
@@ -649,12 +358,8 @@ http://5.9.21.114:3000/covx9569/eWcA01DVIL/269
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/270
 #EXTINF:-1,BCU Fantastic HD
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/271
-#EXTINF:-1,BCU STARS HD
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/272
 #EXTINF:-1,BCU FilMystic HD
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/273
-#EXTINF:-1,BCU History HD
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/274
 #EXTINF:-1,BCU Kinorating HD
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/275
 #EXTINF:-1,BCU Marvel
@@ -671,10 +376,6 @@ http://5.9.21.114:3000/covx9569/eWcA01DVIL/280
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/281
 #EXTINF:-1,BCU Кинозал Premiere 2 HD
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/282
-#EXTINF:-1,BCU Кинозал Premiere 3 HD
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/283
-#EXTINF:-1,BCU Кинозал Premiere 4 HD
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/284
 #EXTINF:-1,BCU Ruserial HD
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/285
 #EXTINF:-1,BCU СВАТЫ HD
@@ -683,44 +384,22 @@ http://5.9.21.114:3000/covx9569/eWcA01DVIL/286
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/287
 #EXTINF:-1,BCU Criminal HD
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/288
-#EXTINF:-1,BCU Ultra 4K
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/289
 #EXTINF:-1,KBC_В.О.В.
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/290
 #EXTINF:-1,KBC_comics
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/291
-#EXTINF:-1,KBC_elite comedy's
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/292
 #EXTINF:-1,KBC_fantastic
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/293
-#EXTINF:-1,KBC_history
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/294
-#EXTINF:-1,KBC_newfilm
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/295
-#EXTINF:-1,KBC_premium
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/296
-#EXTINF:-1,KBC_Russian Комедия
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/297
 #EXTINF:-1,KBC_VIDAK
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/298
-#EXTINF:-1,KBC_ГАЙ Ritchie & Tarantino
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/299
 #EXTINF:-1,KBC_drama tic
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/300
 #EXTINF:-1,KBC_kinoteatr
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/301
-#EXTINF:-1,KBC_koshmarnoe
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/302
 #EXTINF:-1,KBC Strana sssr
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/303
-#EXTINF:-1,KBC_Тест
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/304
 #EXTINF:-1,KBC_Шпионское
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/305
-#EXTINF:-1,Киноджем 1 HD
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/306
-#EXTINF:-1,Киноджем 2 HD
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/307
 #EXTINF:-1,FilmBox
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/308
 #EXTINF:-1,FilmBox Arthouse
@@ -739,16 +418,8 @@ http://5.9.21.114:3000/covx9569/eWcA01DVIL/314
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/315
 #EXTINF:-1,Дом кино премиум HD
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/316
-#EXTINF:-1,Дом Кино
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/317
 #EXTINF:-1,Еврокино
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/318
-#EXTINF:-1,Русский роман
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/319
-#EXTINF:-1,Русский Иллюзион
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/320
-#EXTINF:-1,Иллюзион +
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/321
 #EXTINF:-1,Мосфильм HD
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/322
 #EXTINF:-1,Мосфильм. Золотая коллекция
@@ -761,28 +432,18 @@ http://5.9.21.114:3000/covx9569/eWcA01DVIL/325
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/326
 #EXTINF:-1,Советское кино
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/327
-#EXTINF:-1,Победа
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/328
 #EXTINF:-1,Русская комедия
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/329
 #EXTINF:-1,Русский бестселлер
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/330
-#EXTINF:-1,Русский детектив
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/331
 #EXTINF:-1,Киномикс
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/332
-#EXTINF:-1,Киносерия
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/333
 #EXTINF:-1,Любимое кино
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/334
 #EXTINF:-1,Мир сериала
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/335
 #EXTINF:-1,Cinema
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/336
-#EXTINF:-1,Zee TV
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/337
-#EXTINF:-1,Индийское Кино
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/338
 #EXTINF:-1,Феникс+ Кино
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/339
 #EXTINF:-1,ТВ3
@@ -791,14 +452,3 @@ http://5.9.21.114:3000/covx9569/eWcA01DVIL/340
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/341
 #EXTINF:-1,Shot TV
 http://5.9.21.114:3000/covx9569/eWcA01DVIL/342
-#EXTINF:-1,Юрган
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/343
-#EXTINF:-1,Yosso
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/344
-#EXTINF:-1,Кино UHD 4k
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/345
-#EXTINF:-1,Сериал UHD 4k
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/346
-#EXTINF:-1,Ultra HD Cinema 4k
-http://5.9.21.114:3000/covx9569/eWcA01DVIL/347
-
