@@ -57,3 +57,6 @@ http://hls.voceabasarabiei.md/hls/vocea_basarabiei.m3u8
 
 #EXTINF:-1,Моя Планета
 http://a3569456481-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1,356
+https://r240104.kujo-jotaro.com/onepiece/356.720.0e5a6fc8c3e9b44a.mp4?hash1=c00fd3aadc5f412f5a9c5fb79ae8b0f9&hash2=a89e90444e41696ce8e21d64cb7ca43f
