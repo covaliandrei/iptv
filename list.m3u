@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:0,N4
+#EXTGRP:Moldova
+https://web.sats.gstv.tech/cpl11/da8df281-1165-440a-8c86-959f71b695b6/N4web.m3u8
 #EXTINF:0,tv6
 #EXTGRP:Moldova
 https://streamtvc.tk/ctv/stream.m3u8?_=1
