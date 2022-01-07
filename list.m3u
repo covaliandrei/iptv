@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:0,tv6
+#EXTGRP:Moldova
+https://streamtvc.tk/ctv/stream.m3u8?_=1
 #EXTINF:0,tv8
 #EXTGRP:Moldova
 https://live.cdn.tv8.md/TV7/index.m3u8?token=f6430f35cc08dbebc3123a56f9c43e305d7a8062
